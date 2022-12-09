@@ -2,3 +2,11 @@
     display: flex;
     padding: 10px;
  }
+
+ 
+ body {
+    background-color: rgb(192, 170, 128);
+    border: 5px solid black;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
